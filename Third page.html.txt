@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+         Intern 
+        </title>
+        <style type="text/css">
+        body
+        {
+          background-image: url("kl.jpg");
+          background-repeat: no-repeat;
+
+        }
+        #a
+        {
+         color: green;
+         font-family: "Bradley",cursive;
+         font-size: 2em;
+         text-align: center;
+         position: absolute;
+         left:655px;
+         width:550px;
+         height:730px;
+
+        }
+            </style>
+    </head>
+    <body>
+        <div id="a">
+            <strong><span style =color:skyblue><span style="border: blue;"> Major Achievements and Internships</span></span></strong><br>
+            
+           
+              
+                    Selected in<strong><span style="color: orange;"> Google's STEP</span></strong> internship <strong><span style="color: orange;">JAPAN</span></strong> and Cleared Coding Round 2020</br></br>
+                    Selected for<span style="color: orange;"> <strong>Amazon's Amazewit</strong></span> Internship Programme 2020</br></br>
+                    Campus Ambassador of<span style="color: orange;"> <strong> Eximius IIM,Bangalore</strong></span> 2019</br></br>
+                    Got an Offer letter from <span style="color: orange;"><strong>IIT,Kanpur Entrepreneurship Summit</span></strong> 2019 </br></br>
+                </div>
+        
+
+    </body>
+</html>

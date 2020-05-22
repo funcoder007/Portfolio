@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <title>
+            Edu
+        </title>
+        <style type ="text/css">
+        body
+        {
+         background-image: url("sc.jpg");
+         background-repeat: no-repeat;
+        }
+        #a
+        {
+           position: absolute;
+           font-family: "Bradley",cursive;
+           font-size: 2em;
+           color : orange;
+           left:655px;
+
+        }
+
+        </style>
+       
+    </head>
+    <body>
+        <div id="a">
+            <strong><span style=color:steelblue>EDUCATION</strong><BR><br>
+                <strong><span style="color: green;">College</span></strong><br> 
+                Jodhpur Institue Of Engineering and Technology ( CSE-2022)<br><br>
+            <strong><span style="color: green;">Schooling</span></strong><br>
+                Montessri Cambridge School ,Pathankot(2016)<BR>
+                    <span style="color:green;"> Class 10 : 10 C.G.P.A</span><BR><br>
+                        Children Senior Secondary School,Kota(2018)<br>
+                        <span style="color: green;">Class 12 :79%</span>
+    
+            </div>
+            </body>
+            </html>

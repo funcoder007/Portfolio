@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+          
+        </title>
+        <style type="text/css">
+       body
+        {
+        background-image: url("lp.jpg");
+        background-repeat: no-repeat; 
+        
+       
+          
+
+        }
+       #hobbies
+        {
+           
+            color: cornflowerblue;
+            text-align: center;
+            font-size: 3rem;
+            font-family: "Bradley",Cursive;
+            
+            position : absolute;
+            width :531px;
+            height :724px;
+            top:9px;
+            left: 610px;
+
+        }
+        </style>
+
+    </head>
+    <body>
+        <div id="hobbies">
+          <strong><span style="color: lightgreen;">Hobbies & Intrests</strong> </span>
+          
+                <br><br> <span style="font-family: Courier, monospace;"> <strong>Playing Badminton<br>
+                <br>Reading Mystry Hooked Books<br>
+                <br>Exploring Nature<br>
+                 <br>Baking<br></strong</span>
+         
+        </div>
+        <div id="books">
+           
+        </div>
+       
+    </body>
+    
+</html>

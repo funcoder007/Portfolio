@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Portfolio1
+        </title>
+        <style type="text/css">
+        body
+        {
+            border: 2px black;
+            
+            height::498px;
+            width: 400px;
+            
+        }
+        .first
+        {
+           font-weight: bold;
+        background-color: ;
+           font-family: "Badley",cursive;
+            position: absolute;
+            border: 2px solid skyblue;
+            top: 10px;
+            left:511px;
+            width:835px;
+            height:659px;
+
+        }
+        .b
+        {
+            font-style: inherit;
+            font-family: "Badley",cursive;
+            font-weight: bold;
+            padding-top:0em;
+            text-align:center;
+           font-size :3rem ;
+           color : green;
+
+        }
+        .c
+        {
+           color:green;
+            font-family: "Badley",cursive;
+            font-weight: bold;
+            padding-top:0.5em;
+            text-align:center;
+            font-size :3rem ;
+           
+
+        }
+        .d
+        {
+            font-family: "Badley",cursive;
+           padding-top: 0.5em; 
+           text-align:center;
+            font-size :3rem ;
+           color : green;
+
+        }
+        #e
+        {
+            font-size: 2em;;
+           position: absolute;
+           left:47px;
+           top:498px;
+        }
+        #f
+        {
+            font-size: 2em;
+            position: absolute;
+            left:220px;
+            top:498px;
+        }
+        #g
+        {
+            font-size: 2em;
+            position: absolute;
+            left:450px;
+            top:498px;
+        }
+        #h
+        {
+            font-size: 2em;;
+            position: absolute;
+            left:670px;
+            top:498px;
+        }
+       
+        #k
+        {
+            padding-top: 350px;
+           border: 7px black; 
+          position: absolute;
+          left: 255px;
+         
+        }
+        </style>
+    </head>
+    <body>
+             
+     <img src="b1.jpg" alt="colors">
+   
+     <div class="first">
+            <div class="b">
+             Hi,
+            </div>
+            <div class="c">          
+            My Name is <span style="color:rgba(20, 148, 165, 0.973)">Sneha Soni</span><br>
+            </div>
+            <div class="d">
+            A Curious Tech Insider</BR>
+            </div>
+            <div id="e">
+               <a href="edu.html"> Edu</a>
+            </div>
+            <div id="f">
+                <a href="fourth.html">Skills</a>
+            </div>
+            <div id="g">
+               <a href="third.html"> Internship </a>
+            </div>
+             <div id="h">
+                 <a href="second.html">About</a>
+             </div>
+             
+            <div id="k">
+                Mail id : funcoder223@gmail.com
+            </div>
+
+    </div>
+   </body>
+</html>

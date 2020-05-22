@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <title>
+            Skills
+        </title>
+        <style type ="text/css">
+        body
+        {
+         background-image: url("op.jpg");
+         background-repeat: no-repeat;
+        }
+        #a
+        {
+           position: absolute;
+           font-family: "Bradley",cursive;
+           font-size: 2em;
+           color : saddlebrown;
+           left:655px;
+
+        }
+
+        </style>
+       
+    </head>
+    <body>
+        <div id="a">
+            <strong><span style =color:steelblue >Skills<br></strong><BR>
+                C , C++ , XHTML & CSS </BR><br>
+                Competitive Programming </br><br>
+                Teaching In An Easy Way</br><br>
+                Public Speaking<br><br>
+                Puzzle Solving<br>
+
+         </div>            
+    </body>
+    
+</html>
